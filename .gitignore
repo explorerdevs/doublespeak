@@ -178,7 +178,6 @@ dist
 .DS_Store
 
 # Linters
-.prettierignore
 
 # misc
 dist
