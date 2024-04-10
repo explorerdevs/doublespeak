@@ -31,9 +31,6 @@
       ]
     }
   },
-  "files": [
-    "./.eslintrc.cjs"
-  ],
   "include": [
     "src",
     "./*.d.ts",
