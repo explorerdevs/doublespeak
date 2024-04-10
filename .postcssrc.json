@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "postcss-import": {},
+    "tailwindcss": {},
+    "autoprefixer": {},
+    "postcss-preset-env": {
+      "features": {
+        "has-pseudo-class": true
+      }
+    }
+  }
+}
